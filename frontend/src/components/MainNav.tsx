@@ -16,7 +16,7 @@ const MainNav = () => {
     <div>
     <header className="bg-[#FCF8F1] bg-opacity-30 h-15">
       <div className="px-4 mx-auto sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between h-16 lg:h-20">
+        <div className="flex items-center justify-between h-10 lg:h-14">
           {/* Navigation for larger screens */}
           <div className="hidden lg:flex lg:items-center lg:justify-center lg:space-x-10 pr-[20px]">
             <Link to="/" title="Home">Home</Link>
